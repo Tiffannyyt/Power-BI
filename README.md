@@ -1,4 +1,5 @@
 📦 Power BI Project: Enhancing Supply Chain Monitoring
+
 This Power BI project was developed as part of my Master's thesis at HTW Berlin (Hochschule für Technik und Wirtschaft Berlin). The goal was to improve order management agility and reduce late deliveries to below 5%, or ideally eliminate them entirely.
 
 To support these objectives, the project involved the development of:
